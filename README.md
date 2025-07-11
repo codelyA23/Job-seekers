@@ -74,5 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [Flutter](https://flutter.dev/) for the amazing cross-platform framework
-- [RemoteOK API](https://remoteok.io/) for the job listings
+- [jOBICY API](https://jobicy.com/jobs-rss-feed) for the job listings
 - All the open-source packages that made this project possible
